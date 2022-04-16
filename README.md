@@ -37,8 +37,4 @@ Additional queries I would recommend are;
 - Average temperature by month
 - Average percipitation by month
 
-<<<<<<< HEAD
 These queries would show how much rain is received each month of the year, and would show what the average temperature by month is. These would help W. Avy understand if a surf and ice cream shop would be sustainable all year round.
-=======
-These queries would show how much rain is received each month of the year, and would show what the average temperature by month is. These would help W. Avy understand if a surf and ice cream shop would be sustainable all year round.
->>>>>>> 4cfcfe718e49b8344f8b6cc34919421320519db2
